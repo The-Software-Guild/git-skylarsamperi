@@ -22,5 +22,6 @@ public class App {
   
         ClassRosterController controller = new ClassRosterController();
         controller.run();
+        
     }
 }

@@ -1,0 +1,6 @@
+com/sg/vendingmachine/controller/VendingMachineController.class
+com/sg/vendingmachine/dao/VendingMachineDao.class
+com/sg/vendingmachine/ui/UserIOConsoleImpl.class
+com/sg/vendingmachine/ui/VendingMachineView.class
+com/sg/vendingmachine/App.class
+com/sg/vendingmachine/ui/UserIO.class

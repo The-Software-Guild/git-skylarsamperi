@@ -9,7 +9,7 @@ package com.sg.dvdlibrary.ui;
  *
  * @author skylarsamperi
  */
-public interface UserIO {
+public interface UserIO { //the list that tells us what our code can do, has to be ble to pritn
     void print(String msg);
     
     double readDouble(String prompt);
